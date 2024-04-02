@@ -1,0 +1,36 @@
+/* tiling: adds a background image*/
+#wrapper {margin:auto; max-width:1200px; min-width:980px; background:white; border:5px white solid; font-size:medium; text-align:center;}
+header, nav, article, section, footer, figure {display:block;}
+figure {float:left; text-align:center; margin-left:2 px} /*margin-left:2px;}*/
+/*header {margin:0 auto; margin-top:0; border-bottom:2px white solid; height:50px;}
+
+/* top:-15px pulls text upwards */
+/*h1 {margin:0 auto; positon: fixed; display: inline-block; font-size:250%; color:black; font-weight:bold; font-family:helvetica-neue; text-align:center; background:white;} /*top:-15px; margin-left:30px; */
+h2 {font-size:150%; text-align:center;}
+p {margin:0 auto; font-size:120%; text-align: left; font-family:helvetica-neue; width:500px;}
+a {font-size:120%;}
+nav {float:left; width:150px; height:130px;}
+/*#rightcol {float:right; width:150px; height:190px;}*/
+#midcol {margin-left:90px; margin-right:5px; background:white; padding:0px;} /*155px*/
+br.clear {clear:both;}
+/*#midcol-left {float:left; width:46%; front-weight:bold;}
+#midcol-right {float:right; width:50%; front-weight:bold;}*/
+
+/*set horizontal button menu*/
+nav ul {margin: 0 auto; display:inline-block; float:left; width:1200px; height:100px; text-align:center; padding-left:0;list-style-type:none;} /*margin-left:70px; width:960px;
+/*set general horizontal menu button styles*/
+nav ul li {display:inline-block;}
+li.btn {width:115px; line-height:2; margin-bottom:5px; margin-right:5px; text-align:center;}
+/*set general access (anchor) styles*/
+li.btn a {display:inline-block; width:50px; color:gray; background:white; font-family:helvetica-neue; font-size:100%; font-weight:bold; text-decoration:none; background:red;}
+/*li.btn:focus{color:gray;}*/
+
+/* mouseout*/
+li.btn a {background:white;color:gray;}
+/*mouseover*/
+li.btn a:hover {background:white; color:black;}
+/*mousedown*/
+li.btn a:active {background:white; color:black;}
+
+
+

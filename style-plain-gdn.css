@@ -11,7 +11,7 @@ p {margin:0 auto; font-size:120%; text-align: left; font-family:helvetica-neue; 
 a {font-size:120%;}
 nav {float:left; width:150px; height:130px;}
 /*#rightcol {float:right; width:150px; height:190px;}*/
-#midcol {margin-left:85px; margin-right:5px; background:white; padding:0px;} /*155px*/
+#midcol {margin-left:95px; margin-right:5px; background:white; padding:0px;} /*155px*/
 br.clear {clear:both;}
 /*#midcol-left {float:left; width:46%; front-weight:bold;}
 #midcol-right {float:right; width:50%; front-weight:bold;}*/
